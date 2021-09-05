@@ -1,0 +1,51 @@
+body {
+    background-color: pink;
+}
+
+h1 {
+    background-color: grey; 
+    color: white; 
+    border: solid 14px; 
+    border-color: grey;
+    text-align: center; 
+    font-style: inherit;
+}
+
+#encabezado {
+    width: 1348px; 
+    height: 300px; 
+    object-fit: cover;
+}
+
+.subtemas {
+    justify-content: flex-start; 
+    font-size: 26px; 
+    color: indianred;
+}
+
+.contenido {
+    font-size: 20px; 
+    text-align: justify;
+    font-family: 'Kaisei HarunoUmi', serif;
+}
+
+.miembros {
+    width: 500PX;
+}
+
+#paginapie {
+    width: 1348px; 
+    height: 300px;
+}
+
+#masinformacion {
+    color: rebeccapurple;
+}
+
+#piedepagina {
+    justify-content: space-around; 
+    display: flex; 
+    font-size: 15px; 
+    color: orangered; 
+}
+
